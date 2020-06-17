@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I am **good** at playing video games._ ***I also am knowledgable in some subjects, especially those related to computer technology.***
